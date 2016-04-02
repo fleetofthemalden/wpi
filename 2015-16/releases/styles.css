@@ -493,10 +493,10 @@ body { padding:0 }
 .top-row .lcol .lcol,
 .top-row .lcol .rcol { width:100%; float:none }
 
-#header-logo a { height:70px; background: url(/images/setup/2014/header_mobile_wide.png) no-repeat 0 50% #AC2B37;}
+#header-logo a { height:70px; background: url(header_mobile_wide.png) no-repeat 0 50% #AC2B37;}
 #mobile-menu-bar { width:auto; background:none; position:absolute; right:5px; top:15px }
 #mobile-menu-bar li { margin-left:5px }
-#mobile-menu-bar li .text { display:none }
+
 #mobile-menu-bar li a { background:#000; border-radius:3px }
 
 #site-footer { padding-bottom:0 }
